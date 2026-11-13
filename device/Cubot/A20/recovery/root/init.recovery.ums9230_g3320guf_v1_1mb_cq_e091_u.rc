@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2016-2023 Unisoc (Shanghai) Technologies Co., Ltd
+# SPDX-License-Identifier: LicenseRef-Unisoc-General-1.0
+#
+# Device-specific recovery init for Cubot A20 (ums9230_g3320guf_v1_1mb_cq_e091_u)
+
+import /init.recovery.usb.rc
+import /init.recovery.common.rc
